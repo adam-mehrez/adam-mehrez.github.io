@@ -1,0 +1,126 @@
+nav{
+    text-align: center;
+    background-color:#013a63;
+    width: 100%;
+    margin: 0;
+    padding: 40px;
+}
+
+
+.menu-item {
+    border-radius: 20px;
+    border: 1px white solid;
+    margin: 0px 10px;
+    padding: 20px;
+    color: aliceblue;
+    text-decoration: none;
+
+}
+
+.menu-nav a:hover{
+
+    background-color: rgb(21, 150, 159);
+
+}
+
+body{
+    margin: 0;
+    background-color: #a9d6e5;
+    font-family: 'Roboto Serif', serif;
+}
+
+.contenu{
+    background-color: aliceblue;
+    border: black 2px solid;
+    border-radius: 20px;
+    width: 900px;
+    margin: 0 auto;
+    padding: 40px;
+}
+.asie{
+    width: 325px;
+    height: 219px;
+}
+.afrique{ border: black 2px solid;
+
+    background-color: aliceblue;
+    border-radius: 20px;
+    width: 900px;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+.europe{border: black 2px solid;
+    background-color: aliceblue;
+    border-radius: 20px;
+    width: 900px;
+    margin: 0 auto;
+    padding: 40px;}
+
+    .asie1{border: black 2px solid;
+        background-color: aliceblue;
+        border-radius: 20px;
+        width: 900px;
+        margin: 0 auto;
+        padding: 40px;}
+
+    .usa1{border: black 2px solid;
+        background-color: aliceblue;
+        border-radius: 20px;
+        width: 900px;
+        margin: 0 auto;
+        padding: 40px;}    
+    .res{border: black 2px solid;
+        background-color: aliceblue;
+        border-radius: 20px;
+        width: 900px;
+        margin: 0 auto;
+        padding: 40px;}
+    h1{font-family: 'Ms Madi', cursive;
+        color: #012a4a;
+        border: rgb(0, 0, 0) 2px solid;
+        font-size: 180px;
+        text-align: center;
+        text-shadow: 5px 5px #89c6f4;
+        line-height: 400px;
+        height: 400px;
+        margin: 0 auto;
+        padding: 40px;
+        background-color: rgba(97, 165, 194,0.5);
+        }
+    .entete{
+            background-image: url('html/voyage.jpg');
+
+
+
+            
+    }
+    a{text-decoration: none;
+      font-family: sans-serif;
+ 
+    
+    
+    
+    }
+
+    .fin{text-align: center;}
+    .footer{
+        height: 50px;
+        background-color: #89c6f4;
+        text-align: center;
+        padding-top: 25px;
+    }
+    .img{
+        text-align: center;
+    }
+
+    .passport{
+        background-color: #aed5f1;
+        margin-left: 10px;
+        margin-bottom: 50px;
+        border:1px solid black;
+    }
+
+    .annule-flottement{
+        clear:both;
+    }
